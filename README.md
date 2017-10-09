@@ -1,3 +1,5 @@
+fork别人的，Rails5改before_filter为before_action，第一次fork，不知道是这不是这样
+
 对接企业微信应答：
 https://github.com/lanrion/qy_wechat
 
